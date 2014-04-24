@@ -1,0 +1,4 @@
+njs-io
+======
+
+core functionalities
