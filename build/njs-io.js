@@ -1,0 +1,1 @@
+this.version = 'njs.io v0.0.0';

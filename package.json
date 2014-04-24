@@ -1,0 +1,16 @@
+{
+  "version": "0.0.0",
+  "name": "njs-io",
+  "description": "coming soon",
+  "keywords": [
+  ],
+  "author": {
+    "name": "njs.io",
+    "web": "http://njs.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/njs-io/njs-io.git"
+  },
+  "main": "./build/njs-io.js"
+}
